@@ -12,16 +12,14 @@
 
 ## 🧱 Archtecture
 ```
-    fictitious business
-
-    ├── Active Directory
-    ├── Windows Server
-    ├── pfSense
-    ├── Wazuh
-    ├── Suricata
-    ├── Sysmon
-    ├── Ubuntu
-    ├── ELK
-    └── Kali
+Wazuh Security Lab
+│
+├── 01-file-integrity
+├── 02-ssh-bruteforce
+├── 03-user-creation
+├── 04-privilege-escalation
+├── 05-service-manipulation
+├── 06-permission-change
+└── 07-attack-timeline
 ```
 

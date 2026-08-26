@@ -40,7 +40,19 @@ systemctl status wazuh-manager
 
 2 - On the "Deploy new agent" tab select your Operating System and check the server address (Wazuh IP)
 
-<!-- Deploy new agent image -->
+
+
+
+<img
+    align="left"
+    alt="agent"
+    title="agent"
+    width="1080px"
+    style="padding-right: 10px;"
+    src="images/deploy_new_agent.png"
+/>
+
+
 
 3 - copy/paste the next 2 commands (1st to install all wazuh agent packages / 2nd to start wazuh service)
 
